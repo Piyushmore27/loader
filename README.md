@@ -1,2 +1,2 @@
 # loader
-A loader with cricket ball
+A loader with cricket ball.
